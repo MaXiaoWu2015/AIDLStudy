@@ -1,1 +1,1 @@
-include ':app'
+include ':aidl_downloadcentersumarry', ':aidlstudy_client', ':aidlstudy_server'

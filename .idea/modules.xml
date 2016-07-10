@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AIDLStudy.iml" filepath="$PROJECT_DIR$/AIDLStudy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidl_downloadcentersumarry/aidl_downloadcentersumarry.iml" filepath="$PROJECT_DIR$/aidl_downloadcentersumarry/aidl_downloadcentersumarry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidlstudy_client/aidlstudy_client.iml" filepath="$PROJECT_DIR$/aidlstudy_client/aidlstudy_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidlstudy_server/aidlstudy_server.iml" filepath="$PROJECT_DIR$/aidlstudy_server/aidlstudy_server.iml" />
     </modules>
   </component>
 </project>
